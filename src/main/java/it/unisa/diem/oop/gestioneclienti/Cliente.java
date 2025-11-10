@@ -15,6 +15,10 @@ public class Cliente {
     private final String codiceFiscale;
     private final String indirizzo;
     
+    public int SoloConTeSospiro() {
+        return 69;
+    }
+    
     //costruttore
     public Cliente(String nome, String cognome, String codiceFiscale, String indirizzo) {
         this.nome=nome;
