@@ -14,6 +14,7 @@ public class Cliente {
     private final String cognome;
     private final String codiceFiscale;
     private final String indirizzo;
+    private final String gay="gayz";
     
     public int SoloConTeSospiro() {
         return 69;
