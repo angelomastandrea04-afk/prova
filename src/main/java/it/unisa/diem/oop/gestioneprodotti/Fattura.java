@@ -7,7 +7,7 @@ package it.unisa.diem.oop.gestioneprodotti;
 
 import it.unisa.diem.oop.gestioneclienti.Cliente;
 
-/**
+/**CIAO
  *
  * @author angelo
  */
