@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package it.unisa.diem.oop.gestioneprodotti;
-
+/*GAY*/
 import it.unisa.diem.oop.gestioneclienti.Cliente;
 
 /**
@@ -91,3 +91,4 @@ public class Fattura {
         return(str.toString());
     }
 }
+
