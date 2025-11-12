@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package it.unisa.diem.oop.gestioneclienti;
-/*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*/
 /**
  *
  * @author angelo
@@ -42,4 +41,5 @@ public class Cliente {
                 codiceFiscale + " | Indirizzo: " + indirizzo);
     }
 }
+
 
